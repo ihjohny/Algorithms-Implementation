@@ -1,5 +1,5 @@
-##Different Searching and Sorting implemented using C++ and C.
-###Topcis :
+## Different Searching and Sorting implemented using C++ and C.
+### Topcis :
 
    * Binary Search
    * Bubble Sort
