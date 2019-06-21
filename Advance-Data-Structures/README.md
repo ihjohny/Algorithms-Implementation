@@ -12,6 +12,7 @@
 * Lowest Common Ancestor(LCA)
 * Sliding Range Minimum Query
 
+
 Author: Imam Hossain
 e-Mail: ihjony23@gmail.com
 Studying B.Sc in ICE at NSTU
