@@ -1,4 +1,11 @@
 //selection_sort(iterative)
+/* 
+ * Unstable
+ * In place
+ * Worst case complexity O(n^2)
+ * Space complexityO (1)
+ * 
+ */
 #include<iostream>
 #include<cstdio>
 #define SZ 10

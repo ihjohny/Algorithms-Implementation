@@ -1,4 +1,13 @@
 //quick sort
+/* 
+ * Not stable
+ * In place
+ * Best case complexity O(n)
+ * Average case complexity O(nlogn)
+ * Worst case complexity O(n^2) // when sorted already
+ * Space complexity O(1)
+ * 
+ */
 #include<iostream>
 #define SZ 100
 using namespace std;

@@ -1,4 +1,13 @@
 //bubble sort algorithm-code
+/* 
+ * Stable
+ * In place
+ * Best case complexity O(n)
+ * Average case complexity O(n^2)
+ * Worst case complexity O(n^2)
+ * Space complexityO (1)
+ * 
+ */
 #include<bits/stdc++.h>
 using namespace std;
 int main(){

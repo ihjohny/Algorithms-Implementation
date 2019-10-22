@@ -1,4 +1,13 @@
 //bottom-up_merge_sort
+/* 
+ * Stable
+ * Not in place
+ * Best case complexity O(nlogn)
+ * Average case complexity O(nlogn)
+ * Worst case complexity O(nlogn)
+ * Space complexity O(n)
+ * 
+ */
 #include<iostream>
 #define SZ 100
 using namespace std;

@@ -1,4 +1,13 @@
 //insertion_sort(iterative)
+/* 
+ * Stable
+ * In place
+ * Best case complexity O(n)
+ * Average case complexity O(n^2)
+ * Worst case complexity O(n^2)
+ * Space complexityO (1)
+ * 
+ */
 #include<iostream>
 #include<cstdio>
 #define SZ 10
